@@ -1,4 +1,13 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F72D&center=true&vCenter=true&width=700&lines=Cybersecurity+Enthusiast+%F0%9F%9B%A1%EF%B8%8F;B.Tech+CSE+Student+%F0%9F%92%BB;Learning+%7C+Building+%7C+Growing+%F0%9F%9A%80;Future+Cybersecurity+Engineer" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ADI2NOOB4U&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
+
 # Hola, I am Aditya Kumar Sharma! 👋
+
 
 ## About Me
 
@@ -59,5 +68,17 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/ADI2NOOB4U)
 
 ---
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ADI2NOOB4U&show_icons=true&theme=tokyonight" />
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADI2NOOB4U&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ADI2NOOB4U&theme=tokyonight" />
+</p>
 
 ⭐ Feel free to connect and collaborate!
+
