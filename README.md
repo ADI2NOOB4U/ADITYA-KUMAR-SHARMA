@@ -71,14 +71,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ADI2NOOB4U&show_icons=true&theme=tokyonight" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ADI2NOOB4U&show_icons=true&theme=tokyonight&hide_border=true" />
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADI2NOOB4U&layout=compact&theme=tokyonight"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADI2NOOB4U&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ADI2NOOB4U&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=ADI2NOOB4U&theme=tokyonight&hide_border=true" />
 </p>
+
 
 ⭐ Feel free to connect and collaborate!
 
