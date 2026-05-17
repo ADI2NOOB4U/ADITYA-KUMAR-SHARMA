@@ -29,7 +29,8 @@
 
 ## Contact
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](aditya.25bcy10101@vitbhopal.ac.in)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:aditya[.25bcy10101@vitbhopal.ac.in](mailto:.25bcy10101@vitbhopal.ac.in)
+)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](www.linkedin.com/in/aditya-kumar-sharma-b098753b8)
 
