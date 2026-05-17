@@ -55,22 +55,19 @@
 
 `Penetration Testing` `Malware Analysis` `System Security` `AI + Cybersecurity`
 
----
 
-## Contact
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:aditya.25bcy10101@vitbhopal.ac.in)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/aditya-kumar-sharma-b098753b8)
+## 💼 Experience
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/aditya_sharma_o07_/)
+🛡️ Cybersecurity Intern — TrustLayer Labs
+📅 May 2026 – June 2026
+🔹 Worked on cybersecurity learning tasks, projects, and practical security concepts.
+🔹 Explored system security, digital safety, and technical workflows.
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/ADI2NOOB4U)
-
----
 ## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="mailto:aditya.25bcy10101@vitbhopal.ac.in">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
@@ -90,26 +87,18 @@
 
 ---
 
-## 💼 Experience
-
-🛡️ Cybersecurity Intern — TrustLayer Labs
-📅 May 2026 – June 2026
-🔹 Worked on cybersecurity learning tasks, projects, and practical security concepts.
-🔹 Explored system security, digital safety, and technical workflows.
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ADI2NOOB4U&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ADI2NOOB4U&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADI2NOOB4U&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADI2NOOB4U&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 </p>
 
 <p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=ADI2NOOB4U&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ADI2NOOB4U&theme=tokyonight&hide_border=true"/>
 </p>
+
 
 
 ⭐ Feel free to connect and collaborate!
