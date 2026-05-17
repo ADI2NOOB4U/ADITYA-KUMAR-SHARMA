@@ -90,13 +90,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ADI2NOOB4U&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ADI2NOOB4U&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/>
 
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADI2NOOB4U&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADI2NOOB4U&layout=compact&theme=radical&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ADI2NOOB4U&theme=tokyonight&hide_border=true"/>
+  <img width="70%" src="https://streak-stats.demolab.com?user=ADI2NOOB4U&theme=radical&hide_border=true"/>
 </p>
 
 
