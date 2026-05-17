@@ -9,6 +9,8 @@
 😄 Pronouns: He/Him.
 ⚡ Fun fact: I can spend hours debugging one small error and still enjoy it.
 
+---
+
 ## Goals
 
 🚀 Build strong cybersecurity knowledge.
@@ -16,26 +18,46 @@
 💻 Improve coding and problem-solving skills.
 📚 Continuously learn and grow in the tech field.
 
+---
+
 ## Skills
 
-### My Skills
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,git,github,vscode,linux,mysql,mongodb,bash" />
+</p>
 
-* Cybersecurity Basics
-* C++ & Python
-* Web Development Basics
-* Problem Solving
-* Git & GitHub
-* Digital Forensics (Learning)
+### 🛡️ Cybersecurity
+
+`Network Security` `Ethical Hacking` `OSINT` `Digital Forensics` `Phishing Detection` `Web Security`
+
+### 💻 Programming
+
+`C++` `Python` `JavaScript` `Problem Solving` `DSA`
+
+### 🌐 Web Development
+
+`HTML` `CSS` `JavaScript` `GitHub Pages`
+
+### ⚙️ Tools & Platforms
+
+`Kali Linux` `Wireshark` `Burp Suite` `Git` `VS Code`
+
+### 🚀 Currently Exploring
+
+`Penetration Testing` `Malware Analysis` `System Security` `AI + Cybersecurity`
+
+---
 
 ## Contact
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:aditya[.25bcy10101@vitbhopal.ac.in](mailto:.25bcy10101@vitbhopal.ac.in)
-)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:aditya.25bcy10101@vitbhopal.ac.in)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](www.linkedin.com/in/aditya-kumar-sharma-b098753b8)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/aditya-kumar-sharma-b098753b8)
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)]((https://www.instagram.com/aditya_sharma_o07_/))
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/aditya_sharma_o07_/)
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)]((https://github.com/ADI2NOOB4U))
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/ADI2NOOB4U)
 
-Feel free to connect and collaborate! 🚀
+---
+
+⭐ Feel free to connect and collaborate!
